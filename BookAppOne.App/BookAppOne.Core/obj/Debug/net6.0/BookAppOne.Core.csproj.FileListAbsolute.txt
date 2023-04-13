@@ -1,0 +1,12 @@
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\bin\Debug\net6.0\BookAppOne.Core.deps.json
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\bin\Debug\net6.0\BookAppOne.Core.dll
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\bin\Debug\net6.0\BookAppOne.Core.pdb
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.csproj.AssemblyReference.cache
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.AssemblyInfoInputs.cache
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.AssemblyInfo.cs
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.csproj.CoreCompileInputs.cache
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.dll
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\refint\BookAppOne.Core.dll
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\BookAppOne.Core.pdb
+C:\Users\mmmma\source\repos\BookAppOne.App\BookAppOne.Core\obj\Debug\net6.0\ref\BookAppOne.Core.dll
